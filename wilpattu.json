@@ -1,0 +1,29 @@
+{
+    "wilpattu_national_park": {
+      "introduction": {
+        "title": "Introduction",
+        "content": "Welcome to the lush wilderness of Wilpattu National Park (WNP). Ranging over 131 thousand hectares, it is Sri Lanka’s largest and one of the oldest protected areas. The park consists of five blocks declared between 1938-1973 under the Fauna and Flora Protection Ordinance and is managed by the Department of Wildlife Conservation.\n\nWNP spans across the Puttalam and Anuradhapura districts, and borders the Mannar and Vavuniya Districts. The area is one of the most important elephant habitats in the country and is also a great place to observe the elusive Sri Lankan leopard and the sloth bear.\n\nThis park has a denser forest cover unlike many other National Parks in Sri Lanka. WNPs landscape comprises of dry zone forests and thorny scrub interspersed with extensive open plains, sand dunes and the unique Villu wetlands. Bare reddish cliffs rising abruptly from narrow beaches of the Portugal Bay and Dutch Bay are another striking feature of its landscape.",
+        "citation": "(dwc, 2023)"
+      },
+      "species": [
+        {
+          "name": "Sloth Bear",
+          "image_url": "./IMG/wilpttu/1.jpg",
+          "description": "This sub species is much smaller than the Indian Sloth Bears and are encountered throughout the park, but Maradanmaduwa area is especially noted for their abundance. These black furred bears are omnivores, feeding primarily on termites and berries and is seen as a classic example of an ecological relationship between the most dominant tree species (Manilkara hexandra and Vitex sepiria) at the park and one of the larger mammals in Sri Lanka. The bears are very fond of the fruits of these two trees.",
+          "citation": "(dwc, 2023)"
+        },
+        {
+          "name": "Mugger Crocodile",
+          "image_url": "./IMG/wilpttu/mugger-crocodile-1.jpg",
+          "description": "Of the two crocodile species found in Sri Lanka, the Mugger or Marsh Crocodile is very common in the park. These reptiles are seen regularly on the banks of villus and tanks with their mouths wide open. This basking technique is to regulate the temperature of their bodies through heat dispersal.",
+          "citation": "(dwc, 2023)"
+        }
+      ],
+      "location": {
+        "title": "Location",
+        "map_image_url": "./IMG/wilpttu/wnp-map.jpg",
+        "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505153.2015998011!2d79.70708348661616!3d8.449741952813257!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3afdac7787e4bc27%3A0xcdd9a0715dad187c!2sWilpattu%20National%20Park!5e0!3m2!1sen!2slk!4v1705603923061!5m2!1sen!2slk"
+      }
+    }
+  }
+  

@@ -1,0 +1,22 @@
+{
+  "title": "Introduction to Sri Lankan Wildlife",
+  "content": "Sri Lanka as one of the greatest country in the world fulfill with lot of faunal creatures...",
+  "animals": [
+    {
+      "name": "Sri Lankan elephants",
+      "image": "./IMG/elephant.webp",
+      "description": "Sri Lankan elephants, a subcatogary of Asian Elephants. It have a remarkable place in the hearts of man-animal relationship of Sri Lanka’s colourful history..."
+    },
+    {
+      "name": "Spotted Deer",
+      "image": "./IMG/deer.webp",
+      "description": "The Spotted Deer is called a Tith Muwa in Sinhala.The Spotted Deer is the most common member of the deer family found in Sri Lanka..."
+    },
+    {
+      "name": "Birds",
+      "image": "./IMG/bird.webp",
+      "description": "Sri Lanka is home to more than 400 bird species with around 23 endemics and 200 migratory birds here from India, Siberia, Scandinavia and Western Europe..."
+    }
+  ]
+}
+ 

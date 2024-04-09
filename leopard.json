@@ -1,0 +1,45 @@
+{
+    "leopard_spotting_locations": [
+      {
+        "location": "Yala National Park",
+        "description": "Yala, the most famous national park in Sri Lanka, has the most densely populated leopard presence on earth. Covering around 950 square kilometres, the park hosts a wide selection of wildlife, including elephants, deer, crocodiles, jackals, monkeys, and more. Sightings of leopards, although rare, are possible.",
+        "image_url": "./IMG/lpd drink.webp",
+        "citation": "(intrepid travel, 2017)"
+      },
+      {
+        "location": "Udawalawe National Park",
+        "description": "Udawalawe is known for its elephant population, with around 500 elephants. While leopard sightings are rare, they do occur. The park is smaller than Yala, covering 300 square kilometres.",
+        "image_url": "./IMG/udvalw.jpg",
+        "citation": "(intrepid travel, 2017)"
+      },
+      {
+        "location": "Kumana National Park",
+        "description": "Located in the eastern part of Yala National Park, Kumana serves as both a bird sanctuary and a habitat for larger mammals found in Yala. The park features a large estuary called 'Kumbukkan Oya' and is home to various bird species, elephants, spotted and sambhur deer, and leopards.",
+        "image_url": "./IMG/Kumana.jpg",
+        "citation": "(best of ceylon, 2023)"
+      }
+    ],
+    "leopard_information": {
+      "title": "SRI LANKAN LEOPARD",
+      "description": "The Sri Lankan Leopard (Panthera pardus kotiya) is the most secretive and elusive of the large carnivores. Pound for pound, it is the strongest climber of the larger cats and is capable of killing prey far larger than itself. However, the leopard is the smallest member of the genus Panthera. The Sri Lankan Leopard is classified as 'endangered' by the International Union for Conservation of Nature (IUCN).",
+      "image_url": "./IMG/leopard-hissing-900_orig.jpg",
+      "information": "Leopard populations in Sri Lanka face several threats, including poaching for illegal trade, habitat destruction, pesticide use, and human-leopard conflict. The species is listed as 'near threatened', while the Sri Lanka subspecies is classified as 'endangered' by the IUCN.",
+      "citations": [
+        "(dilmah conservation, 2023)",
+        "(lanka-excursions-holidays, 2023)"
+      ]
+    },
+    "leopard_threats": {
+      "title": "Threats",
+      "description": "The survival of the Sri Lanka leopard is threatened by various factors, including poaching, habitat destruction, pesticide use, and human-leopard conflict.",
+      "threats_list": [
+        "Poaching for illegal trade via India",
+        "Use of leopard bones in traditional Chinese medicine",
+        "Destruction of native habitat",
+        "Effect of pesticides on leopards",
+        "Human-leopard conflict, leading to fatal incidents and retaliatory killings"
+      ],
+      "citation": "(lanka-excursions-holidays, 2023)"
+    }
+  }
+  
